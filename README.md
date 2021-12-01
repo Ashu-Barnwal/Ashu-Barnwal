@@ -4,6 +4,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ashu-Barnwal)
 </div>
+
 ### 📫 How to reach me:
 
 [![Mail Badge](https://img.shields.io/badge/-Asutosh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashuu.barnwal@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@ashuu_ashu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashuu_ashu)](https://twitter.com/ashuu_ashu) [![Linkedin Badge](https://img.shields.io/badge/-ashuuu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/ashuuu/) [![Mail Badge](https://img.shields.io/badge/-@ashubarnwal-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ashubarnwal)
