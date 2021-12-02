@@ -7,6 +7,7 @@
 ### 📫 How to reach me:
 
 [![Mail Badge](https://img.shields.io/badge/-Asutosh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashuu.barnwal@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@ashuu_ashu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashuu_ashu)](https://twitter.com/ashuu_ashu) [![Linkedin Badge](https://img.shields.io/badge/-ashuuu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/ashuuu/) [![Instagram Badge](https://img.shields.io/badge/-@ashubarnwal-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ashubarnwal)
+
 ```
 - 🔭 I’m currently working on important stuff
 - 🎨 I’m also a graphic designer.
@@ -48,12 +49,11 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ***
-
+<div align="center">
 <a href="https://github.com/Ashu-Barnwal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashu-Barnwal&count_private=true&theme=tokyonight&hide=contribs,prs&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashu-Barnwal&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
 <!-- <a href="https://github.com/Ashu-Barnwal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-barnwal&layout=compact"/>
 </a> -->
-
-
+</div>
