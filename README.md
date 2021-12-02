@@ -9,12 +9,14 @@
 [![Mail Badge](https://img.shields.io/badge/-Asutosh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashuu.barnwal@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@ashuu_ashu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashuu_ashu)](https://twitter.com/ashuu_ashu) [![Linkedin Badge](https://img.shields.io/badge/-ashuuu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/ashuuu/) [![Instagram Badge](https://img.shields.io/badge/-@ashubarnwal-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ashubarnwal)
 
 ```
-- 🔭 I’m currently working on important stuff
+- 🎯 I’m currently working on important stuff
 - 🎨 I’m also a graphic designer.
-- 🤔 I’m looking for projects.
+- 🔭 I’m looking for projects.
+- 🤖 I relish creating automated bots and hardware devices.
+- 🎭 My doppelgänger loves Sketching, Artworks, Handicrafts and gaming.
 - ⚡ Fun fact: Can work on any technology with lean research.
 ```
-### 📚 Top Technologies:
+### 💻 Top Technologies:
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 ### 📚 Other Technologies:
@@ -44,8 +46,8 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230175C2.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-blue.svg?style=for-the-badge&logo=angular&logoColor=red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ***
