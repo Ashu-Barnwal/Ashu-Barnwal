@@ -36,7 +36,7 @@
 
 <img align="left" alt="BOT" width="40px" src="https://raw.githubusercontent.com/github/explore/0a84ca418425da147e4e43b1c74aa169d3265870/topics/bot/bot.png"/>
 
-<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/> <br> <br>
+<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/> <br> <br> <br>
 
 ### 📃 I'm currently learning:
 
@@ -51,7 +51,7 @@
 <a href="https://github.com/Ashu-Barnwal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashu-Barnwal&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
-<!-- <a href="https://github.com/Ashu-Barnwal/github-readme-stats">
+<a href="https://github.com/Ashu-Barnwal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-barnwal&layout=compact"/>
-</a> -->
+</a>
 </div>
