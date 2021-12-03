@@ -26,17 +26,17 @@
 
 <img align="left" alt="JSON" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
 
-<img align="left" alt="TYPESCRIPT" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-
 <img align="left" alt="PYTHON" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
 <img align="left" alt="RASPBERRY PI" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/>
 
 <img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
 
+<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
+
 <img align="left" alt="BOT" width="40px" src="https://raw.githubusercontent.com/github/explore/0a84ca418425da147e4e43b1c74aa169d3265870/topics/bot/bot.png"/>
 
-<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/> <br> <br> <br>
+<img align="left" alt="TYPESCRIPT" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> <br> <br> <br>
 
 ### 📃 I'm currently learning:
 
