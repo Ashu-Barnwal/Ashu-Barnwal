@@ -51,7 +51,7 @@
 <a href="https://github.com/Ashu-Barnwal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashu-Barnwal&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
-<a href="https://github.com/Ashu-Barnwal/github-readme-stats">
+<!-- <a href="https://github.com/Ashu-Barnwal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-barnwal&layout=compact"/>
-</a>
+</a> -->
 </div>
