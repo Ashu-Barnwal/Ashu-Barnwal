@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me:
 
-[![Mail Badge](https://img.shields.io/badge/-Asutosh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashuu.barnwal@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@ashuu_ashu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashuu_ashu)](https://twitter.com/ashuu_ashu) [![Linkedin Badge](https://img.shields.io/badge/-ashuuu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/ashuuu/) [![Instagram Badge](https://img.shields.io/badge/-@ashubarnwal-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ashubarnwal) [![Steam Badge](https://img.shields.io/badge/-☣AxCeL_BlazE☣-000000?style=flat&labelColor=000000&logo=steam&logoColor=white)](https://steamcommunity.com/id/axcel_blaze/)
+[![Mail Badge](https://img.shields.io/badge/-ashuu.barnwal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashuu.barnwal@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@ashuu_ashu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashuu_ashu)](https://twitter.com/ashuu_ashu) [![Linkedin Badge](https://img.shields.io/badge/-ashuuu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/ashuuu/) [![Instagram Badge](https://img.shields.io/badge/-@ashubarnwal-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ashubarnwal) [![Steam Badge](https://img.shields.io/badge/-☣_AxCeL_BlazE_☣-000000?style=flat&labelColor=000000&logo=steam&logoColor=white)](https://steamcommunity.com/id/axcel_blaze/)
 
 ```
 - 🎯 I’m currently working on important stuff
@@ -22,25 +22,21 @@
 ### 📚 Other Technologies:
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
-<!-- <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"/> -->
+<img align="left" alt="JSON" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
+<img align="left" alt="TYPESCRIPT" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+<img align="left" alt="PYTHON" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="RASPBERRY PI" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/>
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/>
+<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
+<img align="left" alt="BOT" width="40px" src="https://raw.githubusercontent.com/github/explore/0a84ca418425da147e4e43b1c74aa169d3265870/topics/bot/bot.png"/>
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/0a84ca418425da147e4e43b1c74aa169d3265870/topics/bot/bot.png"/>
-
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
-
-<br><br>
+<img align="left" alt="GIT" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/> <br> <br>
 
 ### 📃 I'm currently learning:
 
