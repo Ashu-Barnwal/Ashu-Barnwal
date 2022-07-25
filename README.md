@@ -53,3 +53,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu-barnwal&layout=compact&theme=tokyonight"/>
 </a>
 </div>
+
+<!-- ***
+<div>
+
+### Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashu-Barnwal&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+</div> -->
